@@ -1,0 +1,149 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2639
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\froman\fcharset0 TimesNewRomanPSMT;\f1\froman\fcharset0 TimesNewRomanPS-BoldItalicMT;\f2\froman\fcharset0 TimesNewRomanPS-ItalicMT;
+\f3\fswiss\fcharset0 Helvetica;\f4\froman\fcharset0 TimesNewRomanPS-BoldMT;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
+{\*\expandedcolortbl;;\cssrgb\c0\c0\c0;}
+\margl1440\margr1440\vieww11520\viewh8400\viewkind0
+\deftab720
+\pard\pardeftab720\qj\partightenfactor0
+
+\f0\fs32 \cf2 \expnd0\expndtw0\kerning0
+Se plante\'f3 la relaci\'f3n entre la variable 
+\f1\i\b cp
+\f2\b0  
+\f0\i0 (dolor de pecho) y 
+\f1\i\b restecg
+\f0\i0\b0  (resultados del electrocardiograma en reposo), debido a que mediante este examen se puede conocer la actividad el\'e9ctrica del coraz\'f3n. De esta manera, cualquier persona que presente s\'edntomas como dolor de pecho, palpitaciones y s\'edntomas de asfixia, debe realizarse un electrocardiograma con el fin de obtener un diagn\'f3stico e identificar las posibles patolog\'edas que provocan un resultados anormales en el examen (Gamaza, 2020).
+\f3 \
+
+\f0 \'a0
+\f3 \
+
+\f0 Se estableci\'f3 una relaci\'f3n entre la variable 
+\f1\i\b restecg
+\f2\b0  (
+\f0\i0 resultados del electrocardiograma en reposo) y 
+\f1\i\b num
+\f0\i0\b0  (enfermedad card\'edaca) porque a partir de los resultados encontrados en el examen, se puede determinar si el ritmo y el latido del coraz\'f3n no son normales. Por consiguiente, en dado caso de que estos sean anormales es un signo de alarma y puede ser un indicio del padecimiento de una enfermedad card\'edaca. Si bien a partir del electrocardiograma no se puede concluir directamente si el paciente tiene o no tiene una enfermedad, este es de gran ayuda como un gran acercamiento al posible diagn\'f3stico de la enfermedad en el paciente (MedlinePlus, 2023).
+\f3 \
+
+\f0 \'a0
+\f3 \
+
+\f0 La relaci\'f3n entre la variable 
+\f1\i\b cp
+\f2\b0  
+\f0\i0 (dolor de pecho) y 
+\f1\i\b slope
+\f2\b0  
+\f0\i0 (segmento de prueba de esfuerzo) surge a ra\'edz de que las personas que presentan s\'edntomas como dolor de pecho, incomodidad en el pecho sin causa alguna, mareos y dificultad para respirar, se deben realizar una prueba de esfuerzo con el fin de identificar si aquellos s\'edntomas son causados por una afecci\'f3n card\'edaca. De esta forma, las pruebas de esfuerzo son utilizadas para determinar la causa de los s\'edntomas que pueden estar relacionados con una enfermedad card\'edaca, como, por ejemplo; angina de pecho, insuficiencia card\'edaca, enfermedad de las arterias coronarias, arritmia, entre otras (MedlinePlus, 2023).
+\f3 \
+
+\f0 \'a0
+\f3 \
+
+\f0 Se estableci\'f3 la relaci\'f3n entre 
+\f1\i\b slope
+\f0\i0\b0  (segmento de prueba de esfuerzo) y 
+\f1\i\b thalac
+\f0\i0\b0  (frecuencia card\'edaca m\'e1xima), debido la estrecha relaci\'f3n que existe entre las variables. En efecto, en la prueba de esfuerzo se busca alcanzar a lo sumo el 85% de la frecuencia card\'edaca m\'e1xima del paciente, debido a que en la prueba cada 3 minutos el nivel de esfuerzo se incrementa para que el coraz\'f3n acelere progresivamente hasta llegar a la frecuencia card\'edaca deseada (Fundaci\'f3n Espa\'f1ola del Coraz\'f3n, 2018).
+\f3 \
+
+\f0 \'a0
+\f3 \
+
+\f0 La variable 
+\f1\i\b cp
+\f2\b0  
+\f0\i0 (dolor de pecho) y 
+\f1\i\b num
+\f0\i0\b0  (enfermedad card\'edaca) est\'e1n relacionadas porque el dolor de pecho es el s\'edntoma m\'e1s com\'fan cuando en el cuerpo hay un flujo sangu\'edneo deficiente al coraz\'f3n, es decir, cuando el coraz\'f3n no est\'e1 recibiendo suficiente sangre u ox\'edgeno. De esta manera, a ra\'edz de que el dolor de pecho puede ser un gran indicio de que el paciente sufre alguna enfermedad cardiovascular surge la relaci\'f3n en el grafo (MedlinePlus, 2020).
+\f3 \
+
+\f0 \'a0
+\f3 \
+
+\f0 Se estableci\'f3 la relaci\'f3n entre 
+\f1\i\b restecg
+\f0\i0\b0  
+\f2\i (
+\f0\i0 resultados del electrocardiograma en reposo) y 
+\f1\i\b slope
+\f2\b0  
+\f0\i0 (segmento de prueba de esfuerzo), debido a que las personas que presentan s\'edntomas de una enfermedad card\'edaca, como lo es el dolor en el pecho, la falta de aliento y los latidos fuertes en el coraz\'f3n; primero se deben realizar un examen del electrocardiograma y, posteriormente, se deben realizar una prueba de esfuerzo durante el ejercicio. Por consiguiente, cuando se realizan el segundo examen, el m\'e9dico tiene la posibilidad de evaluar c\'f3mo est\'e1 funcionando el coraz\'f3n y para evaluar los efectos de un mayor esfuerzo sobre el coraz\'f3n (Choosing Wisely, 2016).
+\f3 \
+
+\f0 \'a0
+\f3 \
+
+\f0 La relaci\'f3n entre 
+\f1\i\b slope
+\f0\i0\b0  (segmento de prueba de esfuerzo) y 
+\f1\i\b oldpeak
+\f0\i0\b0  (depresi\'f3n del ST inducida por el ejercicio en relaci\'f3n con el descanso) surge a ra\'edz de que \'93la incorporaci\'f3n de la prueba de esfuerzo electrocardiogr\'e1fica se basa en la observaci\'f3n emp\'edrica de la depresi\'f3n del segmento ST (intervalo que va desde el final del complejo QRS hasta el inicio de la onda T) en el electrocardiograma de pacientes con episodios de angina\'94 (Gallo y Aristiz\'e1bal, 2015). Por lo tanto, los cambios de este segmento podr\'edan estar asociados a una cardiopat\'eda.
+\f3 \
+
+\f0 \'a0
+\f3 \
+
+\f0 Se estableci\'f3 la relaci\'f3n entre 
+\f1\i\b oldpeak
+\f0\i0\b0  (depresi\'f3n del ST inducida por el ejercicio en relaci\'f3n con el descanso) y 
+\f1\i\b num
+\f0\i0\b0  (enfermedad card\'edaca), a ra\'edz de que \'93la cardiopat\'eda isqu\'e9mica es la causa m\'e1s frecuente de elevaci\'f3n o descenso del segmento ST\'94 (MyEKG, s.f). Por lo tanto, se puede detectar si el paciente tiene enfermedad en el coraz\'f3n si se presenta una elevaci\'f3n aguda del segmento ST en el electrocardiograma, debido a que este se conoce uno de los s\'edntomas del infarto agudo del miocardio y una arteria coronaria.
+\f3 \
+
+\f0 \'a0
+\f3 \
+
+\f0 La relaci\'f3n entre 
+\f1\i\b cp
+\f0\i0\b0  (dolor de pecho) y 
+\f1\i\b thal
+\f2\b0  
+\f0\i0 (estado del coraz\'f3n seg\'fan la prueba de talio)
+\f2\i  
+\f0\i0 se estableci\'f3 porque cuando hay dolor de pecho a ra\'edz de que el coraz\'f3n no est\'e1 latiendo como deber\'eda, los pacientes se deben realizar la prueba de esfuerzo nuclear con el fin de observar el rendimiento sangu\'edneo del coraz\'f3n, lo que quiere decir, observar la manera en la que fluye la sangre a trav\'e9s del coraz\'f3n durante los periodos de reposo y ejercicio y, de esta manera, con la prueba de talio poder revelar el problema (Goshen Health, s.f).
+\f3 \
+
+\f0 \'a0
+\f3 \
+
+\f0 La variable 
+\f1\i\b num
+\f0\i0\b0  (enfermedad card\'edaca) y 
+\f1\i\b thal
+\f2\b0  
+\f0\i0 (estado del coraz\'f3n seg\'fan la prueba de talio) est\'e1n relacionadas, debido a que al haber identificado que el paciente sufre de una cardiopat\'eda, espec\'edficamente, la prueba de talio eval\'faa el coraz\'f3n para identificar la enfermedad coronaria de las arterias y las enfermedades del m\'fasculo card\'edaco. Asismismo, con esta prueba se puede determinar si el coraz\'f3n se ha visto afectado y presenta da\'f1os por la quimioterapia o radioterapia (RadiologyInfo.org, 2022).
+\f3 \
+
+\f0 \'a0
+\f3 \
+
+\f0 Por \'faltimo, se estableci\'f3 la relaci\'f3n entre la variable 
+\f1\i\b num
+\f2\b0  
+\f0\i0 (enfermedad card\'edaca) y 
+\f1\i\b ca
+\f0\i0\b0  (n\'famero de vasos principales coloreados por fluoroscop\'eda) porque con este examen se puede ver en tiempo real los \'f3rganos, de esta manera en el procedimiento de cateterismo card\'edaco, se puede diagnosticar y tratar algunas enfermedades card\'edacas (MedlinePlus, 2021).\
+\
+La variable 
+\f1\i\b trestbps 
+\f0\i0\b0 se discretiz\'f3 de acuerdo con los rangos esablecidos de la presi\'f3n sist\'f3lica (RevistaDeAcuerdo, s.f).
+\f3\fs29\fsmilli14667 \
+
+\f0\fs32 \
+\
+La variable 
+\f1\i\b thalach
+\f0\i0\b0  y la variable 
+\f1\i\b age
+\f4\i0  
+\f0\b0 se discretizaron de acuerdo con los siguientes rangos (TusPulserasDeActividad, s.f).
+\f3\fs29\fsmilli14667 \
+
+\fs32 \
+
+\f0 La variable oldpeak se discretiz\'f3 de acuerdo con la clasificaci\'f3n que realizaron en un estudio en el que dise\'f1aron un Sistema Experto Fuzzy para el diagn\'f3stico de enfermedades del coraz\'f3n (Adeli & Neshat, 2010).
+\f3\fs29\fsmilli14667 \
+}
