@@ -1,0 +1,29 @@
+Inferencias/ relaciones en el grafo 
+Relaciones Padre hijo en la red bayesiana:
+1.	Edad – Glucemia en ayunas (fbs)
+2.	Edad - Colesterol (Chol)
+3.	Sexo- Colesterol (Chol)
+4.	Edad- Presión sanguínea en descanso (Trestbps)
+5.	Colesterol (Chol) - Presión sanguínea en descanso (Trestbps)
+6.	Glucemia en ayunas (fbs)- Presión sanguínea en descanso (Trestbps)
+7.	Edad- Frecuencia cardiaca máxima (Thalach)
+8.	Presión sanguínea en descanso (Trestbps)- Chest Pain (cp)
+9.	Angina en el pecho por ejercicio (exang) -  Chest Pain (cp)
+10.	Angina en el pecho por ejercicio (exang) -  Heart Disease (Num)
+Relaciones sustentadas desde la medicina:
+La primera relación propuesta es la edad como un factor que va a influir en a glucemia en ayunas, por ejemplo si llega un niño se espera que este tenga un nivel más alto en el examen de glucemia que un adulto (Medline plus, 2022). De esta manera la edad se ve como un factor de riesgo que afecta a la glucemia. 
+Ahora las siguientes dos relaciones hacen referencia a la edad junto con el sexo como padres de la variable colesterol ya que estos dos factores varían el nivel del colesterol siendo hombre o mujer y entre más edad se tenga el nivel de colesterol tiende a aumentar. Se encontró que en los hombres el nivel saludable suele ser más bajo que el de la mujer de igual manera variando con la edad (Medline plus, 2021). 
+La siguientes tres relaciones padre- hijo son la de la edad, el colesterol y el nivel de la glucemia en ayunas como padres de  la presión sanguínea en descanso, esto se debe a que a medida que se envejezca (a más edad) mayor riesgo de tener la presión sanguínea alta, por lo tanto, la edad se encuentra como un factor de riesgo para la presión sanguínea (Omron Health Care, 2021)  de igual manera los niveles de colesterol altos pueden llevar a una presión alta por la presión que hacen en las paredes sanguíneas, por lo tanto el nivel de colesterol también es un factor de riesgo para la presión sanguínea.  Por otro lado la glucemia al ser alta se considera como un factor de riesgo para tener una presión arterial alta de manera que las personas con diabetes son más propensas a tener una presión alta (Cleveland Clinic, 2023)
+La séptima relación se propuso ya que el estimador con el que se compara y se conoce un limite de la frecuencia cardiaca es la edad, es decir el limite se calcula como :
+Frecuencia cardiaca máxima = 220-Edad 
+Además, con la edad el referente de frecuencia cardiaca máxima alcanzada por el paciente varía (Muñoz, 2022).
+El Chest Pain tiene como  factor de riesgo la presión sanguínea (relación 8) y la Angina por ejercicio (relación 9) esto se debe a que en el momento en el que el medico verifique que la angina es inducida por el ejercicio el chest pain puede ser determinado como angina estable (Tipo 3) de manera que la angina por ejercicio influye en el resultado del chest pain. En cuanto a la presión sanguínea esta al ser alta puede terminar afectando a las arterias haciendo que estas se endurezcan lo cual lleva a uno de los estados preocupantes del chest pain (Mayo Clinic, 2022). 
+La relación 10 padre-hijo es entre la angina inducida por el ejercicio que influye en uno de los estados del heart disease, como se menciono anteriormente la angina inducida por ejercicio no es factor preocupante, de hecho es algo que se puede dar por exceso de ejercicio por lo que suele desaparecer en poco tiempo, de manera que en este caso la angina que si es inducida  por ejercicio es un factor que influye en mayor medida a que el estado de heart disease sea Saludable (Bermejo, 2017)
+
+Bibliografía 
+-Manejo de Su glucemia: Medlineplus Enciclopedia Médica (2022) MedlinePlus. U.S. National Library of Medicine. Available at: https://medlineplus.gov/spanish/ency/patientinstructions/000086.htm#:~:text=De%2090%20a%20130%20mg,de%206%20a%C3%B1os%20de%20edad
+
+-Niveles de colesterol: Lo que usted debe saber: Medlineplus en Español (2021) MedlinePlus. U.S. National Library of Medicine. Available at: https://medlineplus.gov/spanish/cholesterollevelswhatyouneedtoknow.html#:~:text=Edad%20y%20sexo%3A%20A%20medida,hombres%20de%20la%20misma%20edad.  
+-Las Cuatro etapas de la presión arterial en Nuestro Ciclo de Vida: Omron Healthcare (2021) Omron. Available at: https://omronhealthcare.la/Blog/contenido/las-cuatro-etapas-de-la-presion-arterial-en-nuestro-ciclo-de-vida. 
+-Angina de pecho (2022) Mayo Clinic. Mayo Foundation for Medical Education and Research. Available at: https://www.mayoclinic.org/es-es/diseases-conditions/angina/symptoms-causes/syc-20369373#:~:text=Angina%20de%20pecho%20estable.&amp;text=Por%20lo%20general%2C%20ocurre%20durante,fr%C3%ADo%20sea%20angina%20de%20pecho.
+-Bermejo, (2017) Por qué me duele el pecho al Hacer Ejercicio, Available at: https://www.mundodeportivo.com/uncomo/deporte/articulo/por-que-me-duele-el-pecho-al-hacer-ejercicio-46694.html#anchor_0.
