@@ -252,6 +252,8 @@ app.layout = html.Div(children=[
         
         html.H4("Distribución de probabilidad para diagnóstico del paciente según edad, sexo y angina (seleccionados en la Sección 1), niveles de colesterol, presión arterial y azúcar en ayunas:"),
         
+        html.H6("*Si la combinación de variables del paciente no cuenta con evidencias previas, la gráfica aparece en blanco*"),
+      
         dcc.Graph(id='graph2'),
         
     ])
